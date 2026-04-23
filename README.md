@@ -85,7 +85,6 @@ npm run pack     # build + package into .ehpk
 
 ## Credits
 
-- Persistence pattern referenced from [EvenSolitaire](https://github.com/even-realities/EvenSolitaire)
 - Even G2 SDK notes aggregated by [nickustinov/even-g2-notes](https://github.com/nickustinov/even-g2-notes)
 
 ## Author
